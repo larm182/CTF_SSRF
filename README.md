@@ -2,6 +2,11 @@ SSRF e Inyección de Comandos
 
 Autor: Ing. Larm182
 
+📅 **Fecha:** 10 de febrero de 2025  
+✍️ **Autor:** Ing. Larm  
+🏷️ **Tags:** CTF, XSS, Flask, Bootstrap, Seguridad  
+
+## 📖 Descripción  
 Explotando vulnerabilidades comunes en aplicaciones web
 Las vulnerabilidades de Server-Side Request Forgery (SSRF) e Inyección de Comandos son fallos críticos en la seguridad de aplicaciones web que pueden permitir a un atacante acceder a recursos internos o ejecutar comandos en el servidor.
 
@@ -12,6 +17,7 @@ Acceso a redes internas
 Filtración de datos sensibles
 Interacción con servicios internos como 169.254.169.254 en AWS
 Escaneo de puertos internos
+
 Ejemplo de explotación SSRF en una API vulnerable:
 
 import requests
