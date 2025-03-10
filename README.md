@@ -40,3 +40,12 @@ Aplicar políticas de seguridad como restricciones en el firewall
 
 🎯 Desafío: Encuentra la flag oculta
 Si llegaste hasta aquí, prueba buscando en este repositorio... quizás haya una flag oculta esperando ser encontrada. 😉
+
+Video DEMO:
+
+https://github.com/user-attachments/assets/f552aeba-682d-47af-9efd-b52a7f6558d8
+
+
+
+
+
